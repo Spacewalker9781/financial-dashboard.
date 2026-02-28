@@ -3,4 +3,3 @@ dist/
 server/data.db
 *.log
 .env
-server/data.db
